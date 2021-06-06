@@ -1,2 +1,2 @@
-This is a sample file for git
+This is a sample file for git!
 Have fun!
