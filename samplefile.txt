@@ -1,3 +1,7 @@
 This is a sample file for git!
 New change
 Have fun!
+
+--------------------------------------------------------------------------------
+
+New changes here!
